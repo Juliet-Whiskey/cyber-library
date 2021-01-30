@@ -11,8 +11,8 @@ TBU - Need an introduction description.
 - [Bruce Schneier Crypto-Gram](https://www.schneier.com/crypto-gram/subscribe/): Monthly newsletter and analysis and commentary on current affairs in cyber security from Bruce Schneider
 
 
-
-
+### Events & Conferences
+- [Cybersecurity Conferences](https://infosec-conferences.com/): A Listing Of All Virtual Cybersecurity Conferences And Virtual Hacking Events (Worldwide).
 
 
 
