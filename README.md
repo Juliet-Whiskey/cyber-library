@@ -44,7 +44,8 @@ TBU - Need an introduction description.
 - [Pen Test Partners](https://www.pentestpartners.com/security-blog/):The Pen Test Partners Security Blog brings you the latest news and trends in penetration testing and the internet security industry.
 
 
-
+## Learning & Development Resources
+A collection of resources for learning about security and hacking, as well as platforms to practise. [LINK](test).
 
 
 
