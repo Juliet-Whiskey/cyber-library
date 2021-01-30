@@ -15,14 +15,11 @@ TBU - Need an introduction description.
 - [Cybersecurity Conferences](https://infosec-conferences.com/): A Listing Of All Virtual Cybersecurity Conferences And Virtual Hacking Events (Worldwide).
 
 
+### Blogs - Personalities
+- [Schneier On Security](https://www.schneier.com/): Bruce Schneier's blog. Writing about security issues, and focussing on the intersection of security, technology, and people. 
 
-
-| Mailing List  | Description | Tag          |
-| ------------- | ------------- |---------|
-|[Dale Peterson](https://dale-peterson.com/digital-bond-archives/)  | ICS focussed security news and updates. Released every Friday.  | ICS & OT |
-|[TLDR](https://www.tldrnewsletter.com/) | 
-
-
-
-| Content Cell  | Content Cell  |
-
+ 
+ 
+- Rob Lee
+- Krebs on Security
+- GCHQ Graham Cluley Security Blog
