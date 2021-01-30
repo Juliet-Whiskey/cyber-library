@@ -4,9 +4,16 @@ TBU - Need an introduction description.
 
 
 ### Index
+- News & Current Affairs Section
+- Learning & Development
+- Governance and Complinace Section
+
+
+
 1. [Mailing Lists](#mailing-list)
 2. [Events & Conferences](#events)
 
+# News and Current Affairs
 
 <a name="mailing-list"></a>
 ## Mailing Lists
