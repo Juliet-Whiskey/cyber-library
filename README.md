@@ -3,25 +3,24 @@
 TBU - Need an introduction description. 
 
 
-### Index
+### INDEX
 
 Section | Content
 ------------ | -------------
-[News & Current Affairs](test) |News sites; Blogs; Podcasts; Events & Conferences
-
-
-- News & Current Affairs Section
-- Learning & Development
-- Governance and Complinace Section
+[News & Current Affairs](#news) |News sites; Blogs; Podcasts; Events & Conferences
+News & Current Affairs Section
+Learning & Development
+Governance and Complinace Section
 
 
 
 1. [Mailing Lists](#mailing-list)
 2. [Events & Conferences](#events)
 
+
+<a name="news"></a>
 # News and Current Affairs
 
-<a name="mailing-list"></a>
 ## Mailing Lists
 - [Dale Peterson](https://dale-peterson.com/digital-bond-archives/): Weekly ICS focussed security news and updates. Released every Friday. 
 - [TLDR](https://www.tldrnewsletter.com/): Weekly newsletter covering technology, security, and current affairs.
