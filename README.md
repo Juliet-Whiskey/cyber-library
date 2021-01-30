@@ -45,7 +45,7 @@ TBU - Need an introduction description.
 
 
 ## Learning & Development Resources
-A collection of resources for learning about security and hacking, as well as platforms to practise. [LINK](test).
+A collection of resources for learning about security and hacking, as well as platforms to practise - [Link](test).
 
 
 
