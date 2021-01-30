@@ -16,10 +16,11 @@ TBU - Need an introduction description.
 
 
 ### Blogs - Personalities
-- [Schneier On Security](https://www.schneier.com/): Bruce Schneier's blog. Writing about security issues, and focussing on the intersection of security, technology, and people. 
+- [Schneier On Security](https://www.schneier.com/): Bruce Schneier's personal blog.
+- [Rob M. Lee](https://www.robertmlee.org/blog/): Rob Lee's personal blog. ICS and OT security expert. 
+- [Krebs on Security](https://krebsonsecurity.com/): Brain Kreb's personal blog. An investigative journalist, specialising in cyber and technology.
 
  
  
-- Rob Lee
 - Krebs on Security
 - GCHQ Graham Cluley Security Blog
