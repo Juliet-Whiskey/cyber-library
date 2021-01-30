@@ -5,8 +5,8 @@ TBU - Need an introduction description.
 ### Mailing Lists
 
 
-| First Header  | Second Header |
-| ------------- | ------------- |
+| Mailing List  | Description | Tag          |
+| ------------- | ------------- |---------|
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
