@@ -3,13 +3,13 @@
 TBU - Need an introduction description. 
 
 
-## Index
+### Index
 1. [Mailing Lists](#mailing-list)
 2. [Events & Conferences](#events)
 
 
 <a name="mailing-list"></a>
-### Mailing Lists
+## Mailing Lists
 - [Dale Peterson](https://dale-peterson.com/digital-bond-archives/): Weekly ICS focussed security news and updates. Released every Friday. 
 - [TLDR](https://www.tldrnewsletter.com/): Weekly newsletter covering technology, security, and current affairs.
 - [TLDR Security](https://tldrsec.com/newsletter/): Weekly security specific newsletter, focussing on the technical side of security.
@@ -21,13 +21,13 @@ TBU - Need an introduction description.
 
 
 <a name="events"></a>
-### Events & Conferences
+## Events & Conferences
 - [Cybersecurity Conferences](https://infosec-conferences.com/): A Listing Of All Virtual Cybersecurity Conferences And Virtual Hacking Events (Worldwide).
 
 
 
 
-### Blogs - Personalities
+## Blogs - Personalities
 - [Schneier On Security](https://www.schneier.com/): Bruce Schneier's personal blog.
 - [Rob M. Lee](https://www.robertmlee.org/blog/): Rob Lee's personal blog. ICS and OT security expert. 
 - [Krebs on Security](https://krebsonsecurity.com/): Brain Kreb's personal blog. An investigative journalist, specialising in cyber and technology.
@@ -36,7 +36,7 @@ TBU - Need an introduction description.
  
  
  
-### Blogs - General
+## Blogs - General
 - [Dragos Inc. Blog](https://dragos.com/blog/): Cybersecurity guidance to better understand — and protect — your critical infrastructure. Focussing on ICS & OT.
 - [The Hacker News](https://thehackernews.com/): The Hacker News features latest cyber security news and in-depth coverage of current as well as future trends in Infosec and how they are shaping the cyber world.
 - [System Overlord](https://systemoverlord.com/): A blog about security engineering, research, and general hacking.
