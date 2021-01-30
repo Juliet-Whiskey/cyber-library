@@ -5,7 +5,7 @@ TBU - Need an introduction description.
 
 ### Index
 
-Section | Content Type
+Section | Content
 ------------ | -------------
 [News & Current Affairs](test) |News sites; Blogs; Podcasts; Events & Conferences
 
