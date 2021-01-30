@@ -7,7 +7,7 @@ TBU - Need an introduction description.
 
 | Mailing List  | Description | Tag          |
 | ------------- | ------------- |---------|
-| Content Cell  | Content Cell  |
+| Content Cell  | ICS specific secuirty news and updates. Released every Friday.  | ICS & OT |
 | Content Cell  | Content Cell  |
 
 
