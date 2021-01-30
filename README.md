@@ -7,10 +7,7 @@ TBU - Need an introduction description.
 
 Section | Content Type
 ------------ | -------------
-[1.News & Current Affairs](test) |News sites, podcasts, blogs, events and conferences
-
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+[News & Current Affairs](test) |News sites; Blogs; Podcasts; Events & Conferences
 
 
 - News & Current Affairs Section
