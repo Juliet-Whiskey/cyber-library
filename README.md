@@ -27,5 +27,11 @@ TBU - Need an introduction description.
 - [Dragos Inc. Blog](https://dragos.com/blog/): Cybersecurity guidance to better understand — and protect — your critical infrastructure. Focussing on ICS & OT.
 - [The Hacker News](https://thehackernews.com/): The Hacker News features latest cyber security news and in-depth coverage of current as well as future trends in Infosec and how they are shaping the cyber world.
 - [System Overlord](https://systemoverlord.com/): A blog about security engineering, research, and general hacking.
-|
+- [SCADASEC](https://scadamag.infracritical.com/): A blog focussing on security discussions, trends, and overall discussions pertaining to critical infrastructure protection (CIP) and SCADA/control systems security.
+
+
+
+
+
+
 
