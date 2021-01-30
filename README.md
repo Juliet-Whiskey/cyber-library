@@ -28,7 +28,7 @@ TBU - Need an introduction description.
 - [The Hacker News](https://thehackernews.com/): The Hacker News features latest cyber security news and in-depth coverage of current as well as future trends in Infosec and how they are shaping the cyber world.
 - [System Overlord](https://systemoverlord.com/): A blog about security engineering, research, and general hacking.
 - [SCADASEC](https://scadamag.infracritical.com/): A blog focussing on security discussions, trends, and overall discussions pertaining to critical infrastructure protection (CIP) and SCADA/control systems security.
-
+- [Pen Test Partners](https://www.pentestpartners.com/security-blog/):The Pen Test Partners Security Blog brings you the latest news and trends in penetration testing and the internet security industry.
 
 
 
