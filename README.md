@@ -8,9 +8,10 @@ TBU - Need an introduction description.
 Section | Content
 ------------ | -------------
 [News & Current Affairs](#news) |News sites; Blogs; Podcasts; Events & Conferences
-News & Current Affairs Section
 Learning & Development
-Governance and Complinace Section
+Governance and Complinace Section |Risk methodologies
+Standards & Frameworks
+
 
 
 
@@ -56,8 +57,21 @@ Governance and Complinace Section
 - [Pen Test Partners](https://www.pentestpartners.com/security-blog/):The Pen Test Partners Security Blog brings you the latest news and trends in penetration testing and the internet security industry.
 
 
+
+
+
 ## Learning & Development Resources
 A collection of resources for learning about security and hacking, as well as platforms to practise - [Link](test).
+
+
+
+Platforms
+
+Certifications
+CISM - What online resources are helpful
+
+
+
 
 
 
