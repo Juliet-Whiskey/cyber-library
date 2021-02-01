@@ -1,5 +1,13 @@
+# IN PROGRESS Section
+A place to hold, and work on content - before assigning it too one of the main sections. 
+
+## STRUCTURE & CONTENT NOTES
+Notes and thoughts on how to structure the layout of content, as well as ideas for future content to add.
+- Useful Resources (Section) - A General collection of fairly unstructured bookmarks that ive found useful.
+- Add News Sites, News Aggregators to the News and Current Affairs Section
 
 
+### INDEX PAGE - NOTES
 Section | Content
 ------------ | -------------
 [News & Current Affairs](https://github.com/Juliet-Whiskey/cyber-library/blob/main/resources/news.md) |News sites; Blogs; Podcasts; Events & Conferences
@@ -48,8 +56,3 @@ Website      | Description | Quick Reference
 [SCADASEC](https://scadamag.infracritical.com/)| A blog focussing on security discussions, trends, and overall discussions pertaining to critical infrastructure protection (CIP) and SCADA/control systems security. | ICS & OT
 [Pen Test Partners](https://www.pentestpartners.com/security-blog/) | The Pen Test Partners Security Blog brings you the latest news and trends in penetration testing and the internet security industry.| Technical
 
-
-
-# Structure & Content Notes
-- Useful Resources (Section) - A General collection of fairly unstructured bookmarks that ive found useful.
-- Add News Sites, News Aggregators to the News and Current Affairs Section
