@@ -1,13 +1,16 @@
 # Cyber Library
+A collection of resources focussed on security and technology.
 
-TBU - Need an introduction description. 
+
+## INDEX
+- [News & Current Affairs](https://github.com/Juliet-Whiskey/cyber-library/blob/main/resources/news.md)
 
 
-### INDEX
+
 
 Section | Content
 ------------ | -------------
-[News & Current Affairs](https://github.com/Juliet-Whiskey/cyber-library/blob/main/resources/news.md) |News sites; Blogs; Podcasts; Events & Conferences
+ |News sites; Blogs; Podcasts; Events & Conferences
 Learning & Development
 Governance and Complinace Section |Risk methodologies
 Standards & Frameworks
