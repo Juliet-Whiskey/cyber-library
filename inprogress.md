@@ -24,6 +24,7 @@ Mailing List | Description | Quick Reference
 
 
 ## Developing - Events & Conferences
-- [Cybersecurity Conferences](https://infosec-conferences.com/): A Listing Of All Virtual Cybersecurity Conferences And Virtual Hacking Events (Worldwide).
 
-
+Website      | Description | Quick Reference
+------------ | ------------- | ------------- |
+[Cybersecurity Conferences](https://infosec-conferences.com/) | A Curated Listing Of All Virtual Cybersecurity Conferences And Virtual Hacking Events (Worldwide). | General
