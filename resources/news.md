@@ -2,14 +2,14 @@
 A collection of resources to keep up to date on developments from across the cyber security and technical world.
 <br/>
 
-## INDEX
+### INDEX
 - [Mailing Lists](#news)
 - [Events & Conferences](#events)
 <br/>
 
 
 
-## Developing - Mailing Lists
+### MAILING LISTS
 Mailing List | Description | Quick Reference
 ------------ | ------------- | ------------- |
 [Dale Peterson](https://dale-peterson.com/digital-bond-archives/) | Weekly ICS focussed security news and updates. Released every Friday. | ICS & OT
@@ -23,25 +23,24 @@ Mailing List | Description | Quick Reference
 <br/>
 <br/>
 
-
-
-## Developing - Events & Conferences
+### EVENTS & CONFERENCES
 Website      | Description | Quick Reference
 ------------ | ------------- | ------------- |
 [Cybersecurity Conferences](https://infosec-conferences.com/) | A Curated Listing Of All Virtual Cybersecurity Conferences And Virtual Hacking Events (Worldwide). | General
+<br/>
+<br/>
 
-
-
-## Developing - BLOGS - PERSONALITIES
+### BLOGS - PERSONALITIES
 Website      | Description | Quick Reference
 ------------ | ------------- | ------------- |
 [Schneier On Security](https://www.schneier.com/) | Bruce Schneier's personal blog.
 [Rob M. Lee](https://www.robertmlee.org/blog/) | Rob Lee's personal blog. ICS and OT security expert. 
 [Krebs on Security](https://krebsonsecurity.com/) | Brain Kreb's personal blog. An investigative journalist, specialising in cyber and technology.
 [Graham Cluely](https://grahamcluley.com/) | Graham Cluley, security public speaker and independent cybersecurity analyst, personal blog. 
-
+<br/>
+<br/>
  
- ## Developing - BLOGS - GENERAL
+### BLOGS - GENERAL
 Website      | Description | Quick Reference
 ------------ | ------------- | ------------- |
 [Dragos Inc. Blog](https://dragos.com/blog/) | Cybersecurity guidance to better understand — and protect — your critical infrastructure - Focussing on ICS & OT.| ICS & OT
