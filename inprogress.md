@@ -1,11 +1,13 @@
 # IN PROGRESS SECTION
 A place to hold, and work on content - before assigning it too one of the main sections. 
-
+<br/>
+<br/>
 ## STRUCTURE & CONTENT NOTES
 Notes and thoughts on how to structure the layout of content, as well as ideas for future content to add.
 - Useful Resources (Section) - A General collection of fairly unstructured bookmarks that ive found useful.
 - Add News Sites, News Aggregators to the News and Current Affairs Section
-
+<br/>
+<br/>
 
 ### INDEX PAGE - NOTES
 Section | Content
@@ -15,8 +17,8 @@ Learning & Development
 Governance and Complinace Section |Risk methodologies
 Standards & Frameworks
 ICS Specific
-
-
+<br/>
+<br/>
 
 ## Developing - Mailing Lists
 Mailing List | Description | Quick Reference
@@ -31,8 +33,7 @@ Mailing List | Description | Quick Reference
 [Risky Biz](https://srslyriskybiz.substack.com/subscribe) | A weekly newsletter on the stories and news shaping cyber policy. | ***Update***
 <br/>
 <br/>
-<br/>
-<br/>
+
 
 
 ## Developing - Events & Conferences
