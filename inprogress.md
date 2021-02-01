@@ -7,7 +7,7 @@ Notes and thoughts on how to structure the layout of content, as well as ideas f
 - Useful Resources (Section) - A General collection of fairly unstructured bookmarks that ive found useful.
 - Add News Sites, News Aggregators to the News and Current Affairs Section
 <br/>
-<br/>
+
 ### INDEX PAGE - NOTES
 Section | Content
 ------------ | -------------
@@ -17,7 +17,7 @@ Governance and Complinace Section |Risk methodologies
 Standards & Frameworks
 ICS Specific
 <br/>
-<br/>
+
 ## Developing - Mailing Lists
 Mailing List | Description | Quick Reference
 ------------ | ------------- | ------------- |
