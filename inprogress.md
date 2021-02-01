@@ -50,6 +50,6 @@ Website      | Description | Quick Reference
 
 
 
-Structure & Content Notes
+# Structure & Content Notes
 - Useful Resources (Section) - A General collection of fairly unstructured bookmarks that ive found useful.
 - Add News Sites, News Aggregators to the News and Current Affairs Section
