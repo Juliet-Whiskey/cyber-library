@@ -19,8 +19,8 @@ Mailing List | Description | Quick Reference
 [Daniel Miessler Newsletter](https://danielmiessler.com/) | Free monthly security and newsletter. Premium subscription newsletter released weekly. | General
 [SANS Newsletter Collection](https://www.sans.org/newsletters/) | SANS collection of different cyber security newsletters, including Industrial Control System Security resources.| Update
 [Bruce Schneier Crypto-Gram](https://www.schneier.com/crypto-gram/subscribe/)| Monthly newsletter and analysis and commentary on current affairs in cyber security from Bruce Schneider| General
-[GCHQ](https://grahamcluley.com/gchq-newsletter/) | Graham Clueley's security newsletter. | Update
-[Risky Biz](https://srslyriskybiz.substack.com/subscribe) | A weekly newsletter on the stories and news shaping cyber policy. | Update
+[GCHQ](https://grahamcluley.com/gchq-newsletter/) | Graham Clueley's security newsletter. | **Update**
+[Risky Biz](https://srslyriskybiz.substack.com/subscribe) | A weekly newsletter on the stories and news shaping cyber policy. | **Update**
 
 
 ## Developing - Events & Conferences
