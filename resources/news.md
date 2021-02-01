@@ -7,8 +7,6 @@ A collection of resources to keep up to date on developments from across the cyb
 - [Events & Conferences](#events)
 - [Blogs - Personalities](#blog-p)
 - [Blogs - General](#blog-g)
-
-
 <br/>
 <a name="mailing"></a>
 
@@ -24,7 +22,6 @@ Mailing List | Description | Quick Reference
 [GCHQ](https://grahamcluley.com/gchq-newsletter/) | Graham Clueley's security newsletter. | ***Update***
 [Risky Biz](https://srslyriskybiz.substack.com/subscribe) | A weekly newsletter on the stories and news shaping cyber policy. | ***Update***
 <br/>
-
 <a name="events"></a>
 
 ### EVENTS & CONFERENCES
@@ -32,8 +29,6 @@ Website      | Description | Quick Reference
 ------------ | ------------- | ------------- |
 [Cybersecurity Conferences](https://infosec-conferences.com/) | A Curated Listing Of All Virtual Cybersecurity Conferences And Virtual Hacking Events (Worldwide). | General
 <br/>
-
-
 <a name="blog-p"></a>
 
 ### BLOGS - PERSONALITIES
@@ -44,7 +39,6 @@ Website      | Description | Quick Reference
 [Krebs on Security](https://krebsonsecurity.com/) | Brain Kreb's personal blog. An investigative journalist, specialising in cyber and technology.
 [Graham Cluely](https://grahamcluley.com/) | Graham Cluley, security public speaker and independent cybersecurity analyst, personal blog. 
 <br/>
-
 <a name="blog-g"></a>
 
 ### BLOGS - GENERAL
