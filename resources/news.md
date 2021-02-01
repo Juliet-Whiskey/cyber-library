@@ -5,8 +5,8 @@ A collection of resources to keep up to date on developments from across the cyb
 ### INDEX
 - [Mailing Lists](#mailing)
 - [Events & Conferences](#events)
-- [Blogs - Personalities]
-- [Blogs - General]
+- [Blogs - Personalities](#blog-p)
+- [Blogs - General](#blog-g)
 
 
 <br/>
@@ -33,6 +33,9 @@ Website      | Description | Quick Reference
 [Cybersecurity Conferences](https://infosec-conferences.com/) | A Curated Listing Of All Virtual Cybersecurity Conferences And Virtual Hacking Events (Worldwide). | General
 <br/>
 
+
+<a name="blog-p"></a>
+
 ### BLOGS - PERSONALITIES
 Website      | Description | Quick Reference
 ------------ | ------------- | ------------- |
@@ -41,7 +44,9 @@ Website      | Description | Quick Reference
 [Krebs on Security](https://krebsonsecurity.com/) | Brain Kreb's personal blog. An investigative journalist, specialising in cyber and technology.
 [Graham Cluely](https://grahamcluley.com/) | Graham Cluley, security public speaker and independent cybersecurity analyst, personal blog. 
 <br/>
- 
+
+<a name="blog-g"></a>
+
 ### BLOGS - GENERAL
 Website      | Description | Quick Reference
 ------------ | ------------- | ------------- |
