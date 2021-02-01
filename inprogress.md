@@ -1,11 +1,13 @@
 # IN PROGRESS SECTION
 A place to hold, and work on content - before assigning it too one of the main sections. 
 <br/>
-<br/>
+
 ## STRUCTURE & CONTENT NOTES
 Notes and thoughts on how to structure the layout of content, as well as ideas for future content to add.
 - Useful Resources (Section) - A General collection of fairly unstructured bookmarks that ive found useful.
 - Add News Sites, News Aggregators to the News and Current Affairs Section
+- Where to put books? Its own dedicated section?
+
 <br/>
 
 ### INDEX PAGE - NOTES
