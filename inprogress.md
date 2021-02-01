@@ -17,12 +17,13 @@ ICS Specific
 Mailing List | Description | Quick Reference
 ------------ | ------------- | ------------- |
 
+[Dale Peterson](https://dale-peterson.com/digital-bond-archives/) | Weekly ICS focussed security news and updates. Released every Friday. | ICS |
 
 
 
 
 
-- [Dale Peterson](https://dale-peterson.com/digital-bond-archives/): Weekly ICS focussed security news and updates. Released every Friday. 
+- : 
 - [TLDR](https://www.tldrnewsletter.com/): Weekly newsletter covering technology, security, and current affairs.
 - [TLDR Security](https://tldrsec.com/newsletter/): Weekly security specific newsletter, focussing on the technical side of security.
 - [Daniel Miessler Newsletter](https://danielmiessler.com/): Free monthly security and newsletter. Premium subscription newsletter released weekly.
