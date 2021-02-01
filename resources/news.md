@@ -2,7 +2,7 @@
 A collection of resources to keep up to date on developments from across the cyber security and technical world.
 <br/>
 
-## INDEX
+### INDEX
 - [Mailing Lists](#mailing)
 - [Events & Conferences](#events)
 - [Blogs - Personalities](#blog-p)
@@ -10,7 +10,7 @@ A collection of resources to keep up to date on developments from across the cyb
 <br/>
 <a name="mailing"></a>
 
-# MAILING LISTS
+## MAILING LISTS
 Mailing List | Description | Quick Reference
 ------------ | ------------- | ------------- |
 [Dale Peterson](https://dale-peterson.com/digital-bond-archives/) | Weekly ICS focussed security news and updates. Released every Friday. | ICS & OT
@@ -24,7 +24,7 @@ Mailing List | Description | Quick Reference
 <br/>
 <a name="events"></a>
 
-# EVENTS & CONFERENCES
+## EVENTS & CONFERENCES
 Website      | Description | Quick Reference
 ------------ | ------------- | ------------- |
 [Cybersecurity Conferences](https://infosec-conferences.com/) | A Curated Listing Of All Virtual Cybersecurity Conferences And Virtual Hacking Events (Worldwide). | General
