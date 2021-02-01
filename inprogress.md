@@ -23,5 +23,5 @@ Mailing List | Description | Quick Reference
 [SANS Newsletter Collection](https://www.sans.org/newsletters/) | SANS collection of different cyber security newsletters, including Industrial Control System Security resources.| Update
 [Bruce Schneier Crypto-Gram](https://www.schneier.com/crypto-gram/subscribe/)| Monthly newsletter and analysis and commentary on current affairs in cyber security from Bruce Schneider| General
 [GCHQ](https://grahamcluley.com/gchq-newsletter/) | Graham Clueley's seccurity newsletter. | Update
-- [Risky Biz](https://srslyriskybiz.substack.com/subscribe) | Update | Update
+[Risky Biz](https://srslyriskybiz.substack.com/subscribe) | Update | Update
 
