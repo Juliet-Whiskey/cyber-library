@@ -22,8 +22,8 @@ Mailing List | Description | Quick Reference
 [GCHQ](https://grahamcluley.com/gchq-newsletter/) | Graham Clueley's security newsletter. | ***Update***
 [Risky Biz](https://srslyriskybiz.substack.com/subscribe) | A weekly newsletter on the stories and news shaping cyber policy. | ***Update***
 <br/>
-<a name="events"></a>
 
+<a name="events"></a>
 ## EVENTS & CONFERENCES
 Website      | Description | Quick Reference
 ------------ | ------------- | ------------- |
