@@ -11,9 +11,6 @@ ICS Specific
 
 
 ## Developing - Mailing Lists
-
-
-
 Mailing List | Description | Quick Reference
 ------------ | ------------- | ------------- |
 [Dale Peterson](https://dale-peterson.com/digital-bond-archives/) | Weekly ICS focussed security news and updates. Released every Friday. | ICS & OT
@@ -24,4 +21,9 @@ Mailing List | Description | Quick Reference
 [Bruce Schneier Crypto-Gram](https://www.schneier.com/crypto-gram/subscribe/)| Monthly newsletter and analysis and commentary on current affairs in cyber security from Bruce Schneider| General
 [GCHQ](https://grahamcluley.com/gchq-newsletter/) | Graham Clueley's security newsletter. | Update
 [Risky Biz](https://srslyriskybiz.substack.com/subscribe) | A weekly newsletter on the stories and news shaping cyber policy. | Update
+
+
+## Developing - Events & Conferences
+- [Cybersecurity Conferences](https://infosec-conferences.com/): A Listing Of All Virtual Cybersecurity Conferences And Virtual Hacking Events (Worldwide).
+
 
