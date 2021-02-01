@@ -1,4 +1,4 @@
-# IN PROGRESS Section
+# IN PROGRESS SECTION
 A place to hold, and work on content - before assigning it too one of the main sections. 
 
 ## STRUCTURE & CONTENT NOTES
@@ -29,6 +29,10 @@ Mailing List | Description | Quick Reference
 [Bruce Schneier Crypto-Gram](https://www.schneier.com/crypto-gram/subscribe/)| Monthly newsletter and analysis and commentary on current affairs in cyber security from Bruce Schneider| General
 [GCHQ](https://grahamcluley.com/gchq-newsletter/) | Graham Clueley's security newsletter. | ***Update***
 [Risky Biz](https://srslyriskybiz.substack.com/subscribe) | A weekly newsletter on the stories and news shaping cyber policy. | ***Update***
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 ## Developing - Events & Conferences
