@@ -8,12 +8,9 @@ A collection of resources to keep up to date on developments from across the cyb
 - [Blogs - Personalities](#blog-p)
 - [Blogs - General](#blog-g)
 <br/>
-
-## CONTENTS
-<br/>
 <a name="mailing"></a>
 
-### MAILING LISTS
+## MAILING LISTS
 Mailing List | Description | Quick Reference
 ------------ | ------------- | ------------- |
 [Dale Peterson](https://dale-peterson.com/digital-bond-archives/) | Weekly ICS focussed security news and updates. Released every Friday. | ICS & OT
@@ -27,14 +24,14 @@ Mailing List | Description | Quick Reference
 <br/>
 <a name="events"></a>
 
-### EVENTS & CONFERENCES
+## EVENTS & CONFERENCES
 Website      | Description | Quick Reference
 ------------ | ------------- | ------------- |
 [Cybersecurity Conferences](https://infosec-conferences.com/) | A Curated Listing Of All Virtual Cybersecurity Conferences And Virtual Hacking Events (Worldwide). | General
 <br/>
 <a name="blog-p"></a>
 
-### BLOGS - PERSONALITIES
+## BLOGS - PERSONALITIES
 Website      | Description | Quick Reference
 ------------ | ------------- | ------------- |
 [Schneier On Security](https://www.schneier.com/) | Bruce Schneier's personal blog.
@@ -44,7 +41,7 @@ Website      | Description | Quick Reference
 <br/>
 <a name="blog-g"></a>
 
-### BLOGS - GENERAL
+## BLOGS - GENERAL
 Website      | Description | Quick Reference
 ------------ | ------------- | ------------- |
 [Dragos Inc. Blog](https://dragos.com/blog/) | Cybersecurity guidance to better understand — and protect — your critical infrastructure - Focussing on ICS & OT.| ICS & OT
