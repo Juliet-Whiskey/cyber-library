@@ -17,7 +17,7 @@ ICS Specific
 Mailing List | Description | Quick Reference
 ------------ | ------------- | ------------- |
 
-[Dale Peterson](https://dale-peterson.com/digital-bond-archives/) | Weekly ICS focussed security news and updates. Released every Friday. | ICS |
+[Dale Peterson](https://dale-peterson.com/digital-bond-archives/) | Weekly ICS focussed security news and updates. Released every Friday. | ICS
 
 
 
