@@ -8,7 +8,6 @@ Notes and thoughts on how to structure the layout of content, as well as ideas f
 - Add News Sites, News Aggregators to the News and Current Affairs Section
 <br/>
 <br/>
-
 ### INDEX PAGE - NOTES
 Section | Content
 ------------ | -------------
@@ -19,7 +18,6 @@ Standards & Frameworks
 ICS Specific
 <br/>
 <br/>
-
 ## Developing - Mailing Lists
 Mailing List | Description | Quick Reference
 ------------ | ------------- | ------------- |
