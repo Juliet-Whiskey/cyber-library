@@ -3,10 +3,14 @@ A collection of resources to keep up to date on developments from across the cyb
 <br/>
 
 ### INDEX
-- [Mailing Lists](#news)
+- [Mailing Lists](#mailing)
 - [Events & Conferences](#events)
-<br/>
+- [Blogs - Personalities]
+- [Blogs - General]
 
+
+<br/>
+<a name="mailing"></a>
 ### MAILING LISTS
 Mailing List | Description | Quick Reference
 ------------ | ------------- | ------------- |
@@ -19,7 +23,7 @@ Mailing List | Description | Quick Reference
 [GCHQ](https://grahamcluley.com/gchq-newsletter/) | Graham Clueley's security newsletter. | ***Update***
 [Risky Biz](https://srslyriskybiz.substack.com/subscribe) | A weekly newsletter on the stories and news shaping cyber policy. | ***Update***
 <br/>
-
+<a name="events"></a>
 ### EVENTS & CONFERENCES
 Website      | Description | Quick Reference
 ------------ | ------------- | ------------- |
