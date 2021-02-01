@@ -8,9 +8,9 @@ A collection of resources to keep up to date on developments from across the cyb
 - [Blogs - Personalities](#blog-p)
 - [Blogs - General](#blog-g)
 <br/>
-<a name="mailing"></a>
 
 ## MAILING LISTS
+<a name="mailing"></a>
 Mailing List | Description | Quick Reference
 ------------ | ------------- | ------------- |
 [Dale Peterson](https://dale-peterson.com/digital-bond-archives/) | Weekly ICS focussed security news and updates. Released every Friday. | ICS & OT
