@@ -39,14 +39,14 @@ Website      | Description | Quick Reference
 [Graham Cluely](https://grahamcluley.com/) | Graham Cluley, security public speaker and independent cybersecurity analyst, personal blog. 
 
  
-
- 
-## Blogs - General
-- [Dragos Inc. Blog](https://dragos.com/blog/): Cybersecurity guidance to better understand — and protect — your critical infrastructure. Focussing on ICS & OT.
-- [The Hacker News](https://thehackernews.com/): The Hacker News features latest cyber security news and in-depth coverage of current as well as future trends in Infosec and how they are shaping the cyber world.
-- [System Overlord](https://systemoverlord.com/): A blog about security engineering, research, and general hacking.
-- [SCADASEC](https://scadamag.infracritical.com/): A blog focussing on security discussions, trends, and overall discussions pertaining to critical infrastructure protection (CIP) and SCADA/control systems security.
-- [Pen Test Partners](https://www.pentestpartners.com/security-blog/):The Pen Test Partners Security Blog brings you the latest news and trends in penetration testing and the internet security industry.
+ ## Developing - BLOGS - GENERAL
+Website      | Description | Quick Reference
+------------ | ------------- | ------------- |
+[Dragos Inc. Blog](https://dragos.com/blog/) | Cybersecurity guidance to better understand — and protect — your critical infrastructure - Focussing on ICS & OT.| ICS & OT
+[The Hacker News](https://thehackernews.com/) | The Hacker News features latest cyber security news and in-depth coverage of current as well as future trends in Infosec and how they are shaping the cyber world. | General
+[System Overlord](https://systemoverlord.com/)| A blog about security engineering, research, and general hacking.| Technical
+[SCADASEC](https://scadamag.infracritical.com/)| A blog focussing on security discussions, trends, and overall discussions pertaining to critical infrastructure protection (CIP) and SCADA/control systems security. | ICS & OT
+[Pen Test Partners](https://www.pentestpartners.com/security-blog/) | The Pen Test Partners Security Blog brings you the latest news and trends in penetration testing and the internet security industry.| Technical
 
 
 
