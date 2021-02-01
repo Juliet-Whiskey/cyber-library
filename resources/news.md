@@ -8,7 +8,7 @@
 - [SANS Newsletter Collection](https://www.sans.org/newsletters/): SANS collection of different cyber security newsletters, including Industrial Control System Security resources.
 - [Bruce Schneier Crypto-Gram](https://www.schneier.com/crypto-gram/subscribe/): Monthly newsletter and analysis and commentary on current affairs in cyber security from Bruce Schneider
 - [GCHQ](https://grahamcluley.com/gchq-newsletter/): Graham Clueley's seccurity newsletter.
-
+- [Risky Biz](https://srslyriskybiz.substack.com/subscribe)
 
 
 <a name="events"></a>
