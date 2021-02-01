@@ -7,7 +7,7 @@ TBU - Need an introduction description.
 
 Section | Content
 ------------ | -------------
-[News & Current Affairs](#news) |News sites; Blogs; Podcasts; Events & Conferences
+[News & Current Affairs](https://github.com/Juliet-Whiskey/cyber-library/blob/main/resources/news.md) |News sites; Blogs; Podcasts; Events & Conferences
 Learning & Development
 Governance and Complinace Section |Risk methodologies
 Standards & Frameworks
