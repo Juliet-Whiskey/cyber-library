@@ -20,14 +20,14 @@ A collection of resources to keep up to date on developments from across the cyb
 * **Bruce Schneier Crypto-Gram** Monthly newsletter and analysis and commentary on current affairs in cyber security from Bruce Schneider. https://www.schneier.com/crypto-gram/subscribe/
 * **GCHQ** Graham Clueley's security newsletter. https://grahamcluley.com/gchq-newsletter/
 
+#### Technical Security
+* **TLDR Security** Weekly security specific newsletter, focussing on the technical side of security. https://tldrsec.com/newsletter/
+
+#### ICS & OT Security
+* **Dale Peterson** Weekly ICS focussed security news and updates. Released every Friday. https://dale-peterson.com/digital-bond-archives/
 
 
-Mailing List | Description | Quick Reference
------------- | ------------- | ------------- |
-[Dale Peterson](https://dale-peterson.com/digital-bond-archives/) | Weekly ICS focussed security news and updates. Released every Friday. | ICS & OT
 
-
-[TLDR Security](https://tldrsec.com/newsletter/) | Weekly security specific newsletter, focussing on the technical side of security. | Technical
 
 
 
