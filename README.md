@@ -1,11 +1,8 @@
 <h2 align="center">Cyber Library</h2>
-<br/>
 
 <p align="center">"<i>When you know the way brodly, you will see it in everthing<i>"</p>
-<br/>
 
 <h4 align="center">A collection of resources focussed on security and technology</h4>
-<br/>
 
 ****
 
