@@ -35,9 +35,15 @@ A collection of resources to keep up to date on developments from across the cyb
 <a name="podcast"></a>
 ## Podcasts 
 ### General & News
-* **Cyber by Vice**
-* **Cyber Security Interviews**
-* **Risky Business**
+* [**Cyber by Vice**](https://www.vice.com/en/topic/cyber-podcast) Host Ben Makuch talks every week to Motherboard reporters Lorenzo Franceschi-Bicchierai and Joseph Cox about the stories they're breaking and to the industry's most famous hackers and researchers about the biggest news in cybersecurity.
+
+* [**Cyber Security Interviews**](https://cybersecurityinterviews.com/) Weekly podcast dedicated to digging into the minds of the influencers, thought leaders, and individuals who shape the cyber security industry.
+
+* [**Risky Business**](https://risky.biz/) Weekly information security podcast featuring news and in-depth interviews with industry luminaries.
+
+
+
+
 
 ### Threat Intelligence
 * **FortiGuard**
@@ -47,11 +53,33 @@ A collection of resources to keep up to date on developments from across the cyb
 * **Recorded Future**
 * **Shadow Talks by Digitial Shadows**
 
+
+
+
+
+
 ### ICS & OT
 * [**Industrial Security Podcast**](https://waterfall-security.com/scada-security/podcasts-on-ics-cybersecurity/) Hosted by Nate Nelson and Andrew Ginter, The Industrial Security Podcast takes a deep-dive into the most pressing emerging issues in SCADA technologies today. 
 
 * [**Unsolicited Response Podcas‪t‬**](https://dale-peterson.com/podcast-2/) Dale Peterson interviews the innovators in ICS / SCADA cyber security as well as the top talent in related fields. 
 <br/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a name="blog"></a>
 ## BLOGS 
