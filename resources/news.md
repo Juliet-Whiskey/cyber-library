@@ -47,13 +47,9 @@ A collection of resources to keep up to date on developments from across the cyb
 * **Dragos Inc. Blog** Cybersecurity guidance to better understand — and protect — your critical infrastructure - Focussing specifically on ICS & OT. https://dragos.com/blog/
 * **SCADASEC** A blog focussing on security discussions, trends, and overall discussions pertaining to critical infrastructure protection (CIP) and SCADA/control systems security. https://scadamag.infracritical.com/
 
-
-
-
 ### Technical
 * **System Overlord** A blog about security engineering, research, and general hacking. https://systemoverlord.com/
 * **Pen Test Partners** Updates, news, and trends in penetration testing and the internet security industry.https://www.pentestpartners.com/security-blog/
-
 
 ### Security Personalities
 * **Schneier On Security** Bruce Schneier's personal blog. https://www.schneier.com/
@@ -61,9 +57,6 @@ A collection of resources to keep up to date on developments from across the cyb
 * **Krebs on Security** An investigative journalist, Brian Krebs, specialising in cyber and technology. https://krebsonsecurity.com/
 * **Graham Cluely** Security public speaker and independent cybersecurity analyst, Graham Clueley's personal blog. https://grahamcluley.com/
 
-
-<br/>
-<br/>
 
 
 
