@@ -1,10 +1,10 @@
 # NEWS & CURRENT AFFAIRS
 A collection of resources to keep up to date on developments from across the cyber security and technical world.
 
-- [Mailing Lists](#mailing)
-- [Events & Conferences](#events)
-- [Podcasts](#podcast)
-- [Blogs ](#blog)
+- [**Mailing Lists**](#mailing)
+- [**Events & Conferences**](#events)
+- [**Podcasts**](#podcast)
+- [**Blogs**](#blog)
 <br/>
 
 <a name="mailing"></a>
@@ -32,7 +32,7 @@ A collection of resources to keep up to date on developments from across the cyb
 
 <a name="events"></a>
 ## EVENTS & CONFERENCES
-* **Cybersecurity Conferences** A Curated Listing Of All Virtual Cybersecurity Conferences And Virtual Hacking Events (Worldwide). https://infosec-conferences.com/
+* [**Cybersecurity Conferences**](https://infosec-conferences.com/) A Curated Listing Of All Virtual Cybersecurity Conferences And Virtual Hacking Events (Worldwide). 
 <br/>
 <br/>
 
