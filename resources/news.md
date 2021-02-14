@@ -14,14 +14,14 @@ A collection of resources to keep up to date on developments from across the cyb
 ## MAILING LISTS
 
 ### General
-* test
+* **TLDR** Weekly newsletter covering technology, security, and current affairs. https://www.tldrnewsletter.com/
 
 
 
 Mailing List | Description | Quick Reference
 ------------ | ------------- | ------------- |
 [Dale Peterson](https://dale-peterson.com/digital-bond-archives/) | Weekly ICS focussed security news and updates. Released every Friday. | ICS & OT
-[TLDR](https://www.tldrnewsletter.com/) | Weekly newsletter covering technology, security, and current affairs. | General
+[TLDR](https://www.tldrnewsletter.com/) | W | General
 [TLDR Security](https://tldrsec.com/newsletter/) | Weekly security specific newsletter, focussing on the technical side of security. | Technical
 [Daniel Miessler Newsletter](https://danielmiessler.com/) | Free monthly security and newsletter. Premium subscription newsletter released weekly. | General
 [SANS Newsletter Collection](https://www.sans.org/newsletters/) | SANS collection of different cyber security newsletters, including Industrial Control System Security resources.| ***Update***
