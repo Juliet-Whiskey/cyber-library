@@ -3,6 +3,7 @@ A collection of resources to keep up to date on developments from across the cyb
 
 - [Mailing Lists](#mailing)
 - [Events & Conferences](#events)
+- [Podcasts](#podcast)
 - [Blogs ](#blog)
 <br/>
 <br/>
@@ -28,6 +29,27 @@ A collection of resources to keep up to date on developments from across the cyb
 <a name="events"></a>
 ## EVENTS & CONFERENCES
 * **Cybersecurity Conferences** A Curated Listing Of All Virtual Cybersecurity Conferences And Virtual Hacking Events (Worldwide). https://infosec-conferences.com/
+<br/>
+<br/>
+
+<a name="podcast"></a>
+## Podcasts 
+### General & News
+* **Cyber by Vice**
+* **Cyber Security Interviews**
+* **Risky Business**
+
+### Threat Intelligence
+* **FortiGuard**
+* **The Insight Threat Intel Podcast**
+* **OSINT Curious**
+* **Privacy Security & OSINT Show**
+* **Recorded Future**
+* **Shadow Talks by Digitial Shadows**
+
+### ICS & OT
+* **Industrial Security Podcast** Hosted by Nate Nelson and Andrew Ginter, The Industrial Security Podcast takes a deep-dive into the most pressing emerging issues in SCADA technologies today. https://waterfall-security.com/scada-security/podcasts-on-ics-cybersecurity/
+* **Unsolicited Response Podcas‪t‬** Dale Peterson interviews the innovators in ICS / SCADA cyber security as well as the top talent in related fields. https://dale-peterson.com/podcast-2/
 <br/>
 <br/>
 
