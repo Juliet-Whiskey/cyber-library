@@ -15,10 +15,11 @@ A collection of resources to keep up to date on developments from across the cyb
 
 #### General Security
 * **TLDR** Weekly newsletter covering technology, security, and current affairs. https://www.tldrnewsletter.com/
-
 * **Daniel Miessler Newsletter** Free monthly security and newsletter. Premium subscription newsletter released weekly. https://danielmiessler.com/
-
 * **SANS Newsletter Collection** SANS collection of different cyber security newsletters, including Industrial Control System Security resources. _https://www.sans.org/newsletters/_
+* **Bruce Schneier Crypto-Gram** Monthly newsletter and analysis and commentary on current affairs in cyber security from Bruce Schneider. https://www.schneier.com/crypto-gram/subscribe/
+* **GCHQ** Graham Clueley's security newsletter. https://grahamcluley.com/gchq-newsletter/
+
 
 
 Mailing List | Description | Quick Reference
@@ -32,9 +33,6 @@ Mailing List | Description | Quick Reference
 
 
 
-[Bruce Schneier Crypto-Gram](https://www.schneier.com/crypto-gram/subscribe/)| Monthly newsletter and analysis and commentary on current affairs in cyber security from Bruce Schneider| General
-
-[GCHQ](https://grahamcluley.com/gchq-newsletter/) | Graham Clueley's security newsletter. | ***Update***
 
 [Risky Biz](https://srslyriskybiz.substack.com/subscribe) | A weekly newsletter on the stories and news shaping cyber policy. | ***Update***
 <br/>
