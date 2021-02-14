@@ -6,28 +6,27 @@ A collection of resources to keep up to date on developments from across the cyb
 - [Podcasts](#podcast)
 - [Blogs ](#blog)
 <br/>
-<br/>
 
 <a name="mailing"></a>
 ## MAILING LISTS
 ### General Security
-* **TLDR** Weekly newsletter covering technology, security, and current affairs. https://www.tldrnewsletter.com/
+* [**TLDR**](https://www.tldrnewsletter.com/) Weekly newsletter covering technology, security, and current affairs. 
 
-* **Daniel Miessler Newsletter** Free monthly security and newsletter. Premium subscription newsletter released weekly. https://danielmiessler.com/
+* [**Daniel Miessler Newsletter**](https://danielmiessler.com/) Free monthly security and newsletter. Premium subscription newsletter released weekly. 
 
-* **SANS Newsletter Collection** SANS collection of different cyber security newsletters, including Industrial Control System Security resources. _https://www.sans.org/newsletters/_
+* [**SANS Newsletter Collection**](https://www.sans.org/newsletters/) SANS collection of different cyber security newsletters, including Industrial Control System Security resources. 
 
-* **Bruce Schneier Crypto-Gram** Monthly newsletter and analysis and commentary on current affairs in cyber security from Bruce Schneider. https://www.schneier.com/crypto-gram/subscribe/
+* [**Bruce Schneier Crypto-Gram**](https://www.schneier.com/crypto-gram/subscribe/) Monthly newsletter and analysis and commentary on current affairs in cyber security from Bruce Schneider. 
 
-* **GCHQ** Graham Clueley's security newsletter. https://grahamcluley.com/gchq-newsletter/
+* [**GCHQ**](https://grahamcluley.com/gchq-newsletter/) Graham Clueley's security newsletter. 
 
-* **Risky Biz** A weekly newsletter on the stories and news shaping cyber policy.https://srslyriskybiz.substack.com/subscribe
+* [**Risky Biz**](https://srslyriskybiz.substack.com/subscribe) A weekly newsletter on the stories and news shaping cyber policy.
 
 ### Technical Security
-* **TLDR Security** Weekly security specific newsletter, focussing on the technical side of security. https://tldrsec.com/newsletter/
+* [**TLDR Security**](https://tldrsec.com/newsletter/) Weekly security specific newsletter, focussing on the technical side of security. 
 
 ### ICS & OT Security
-* **Dale Peterson** Weekly ICS focussed security news and updates. Released every Friday. https://dale-peterson.com/digital-bond-archives/
+* [**Dale Peterson**](https://dale-peterson.com/digital-bond-archives/) Weekly ICS focussed security news and updates. Released every Friday. 
 <br/>
 <br/>
 
