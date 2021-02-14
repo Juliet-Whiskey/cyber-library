@@ -38,7 +38,6 @@ A collection of resources to keep up to date on developments from across the cyb
 
 ### Threat Intelligence
 * [**FortiGuard**](https://www.fortiguard.com/podcasts) Highlights and commentary into top cyber threats, data breaches, and cybercrime.
-
 * [**The Insight - Threat Intel Podcast**](https://landing.intelligencefusion.co.uk/threat-intelligence-podcast-yellowhammer-brexit) A regular threat intelligence podcast providing you with a deeper insight and more comprehensive analysis on wider security trends, evolving patterns and unexplored geopolitical themes from every corner of the globe.
 * [**OSINT Curious**](https://osintcurio.us/) A source of quality, actionable, Open Source Intelligence news, original blogs, instructional videos, and a bi-weekly webcast/podcast.
 * [**Privacy Security & OSINT Show**](https://inteltechniques.com/podcast.html) Weekly dose of privacy, digital security, and open source intelligence (OSINT) news and opinion.
