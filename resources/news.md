@@ -42,20 +42,18 @@ A collection of resources to keep up to date on developments from across the cyb
 * [**Risky Business**](https://risky.biz/) Weekly information security podcast featuring news and in-depth interviews with industry luminaries.
 
 
-
-
-
 ### Threat Intelligence
-* **FortiGuard**
-* **The Insight Threat Intel Podcast**
-* **OSINT Curious**
-* **Privacy Security & OSINT Show**
-* **Recorded Future**
-* **Shadow Talks by Digitial Shadows**
+* [**FortiGuard**](https://www.fortiguard.com/podcasts) Highlights and commentary into top cyber threats, data breaches, and cybercrime.
 
+* [**The Insight - Threat Intel Podcast**](https://landing.intelligencefusion.co.uk/threat-intelligence-podcast-yellowhammer-brexit) A regular threat intelligence podcast providing you with a deeper insight and more comprehensive analysis on wider security trends, evolving patterns and unexplored geopolitical themes from every corner of the globe.
 
+* [**OSINT Curious**](https://osintcurio.us/) A source of quality, actionable, Open Source Intelligence news, original blogs, instructional videos, and a bi-weekly webcast/podcast.
 
+* [**Privacy Security & OSINT Show**](https://inteltechniques.com/podcast.html) Weekly dose of privacy, digital security, and open source intelligence (OSINT) news and opinion.
 
+* [**Recorded Future**](https://www.recordedfuture.com/resources/podcast/) Inside the world of cyber threat intelligence. Sharing stories from the trenches and the operations floor as well as giving you updates on established and emerging adversaries.
+
+* [**Shadow Talks by Digitial Shadows**](https://resources.digitalshadows.com/threat-intelligence-podcast-shadowtalk) Digital Shadows' ShadowTalk discusses the latest threat intelligence and cybersecurity news with our panel of threat intelligence experts, security engineers, security researchers, and more.
 
 
 ### ICS & OT
