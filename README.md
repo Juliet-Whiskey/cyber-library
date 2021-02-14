@@ -16,7 +16,7 @@
   - [_Podcasts_](https://github.com/Juliet-Whiskey/cyber-library/blob/main/resources/news.md#podcasts)
   - [_Blogs_](https://github.com/Juliet-Whiskey/cyber-library/blob/main/resources/news.md#blogs)
 <br/>
-
+- **Governance & Compliance**
 
 
 
