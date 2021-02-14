@@ -5,6 +5,7 @@ A collection of resources to keep up to date on developments from across the cyb
 - [**Events & Conferences**](#events)
 - [**Podcasts**](#podcast)
 - [**Blogs**](#blog)
+- [**Future Additions**](#future)
 <br/>
 
 <a name="mailing"></a>
@@ -69,5 +70,6 @@ A collection of resources to keep up to date on developments from across the cyb
 * [**Graham Cluely**](https://grahamcluley.com/) Security public speaker and independent cybersecurity analyst, Graham Clueley's personal blog. 
 
 
-
+<a name="future"></a>
+## Future Additions 
 
