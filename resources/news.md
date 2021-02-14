@@ -20,13 +20,13 @@ A collection of resources to keep up to date on developments from across the cyb
 * **Bruce Schneier Crypto-Gram** Monthly newsletter and analysis and commentary on current affairs in cyber security from Bruce Schneider. https://www.schneier.com/crypto-gram/subscribe/
 * **GCHQ** Graham Clueley's security newsletter. https://grahamcluley.com/gchq-newsletter/
 * **Risky Biz** A weekly newsletter on the stories and news shaping cyber policy.https://srslyriskybiz.substack.com/subscribe
-<br/>
+
 #### Technical Security
 * **TLDR Security** Weekly security specific newsletter, focussing on the technical side of security. https://tldrsec.com/newsletter/
-<br/>
+
 #### ICS & OT Security
 * **Dale Peterson** Weekly ICS focussed security news and updates. Released every Friday. https://dale-peterson.com/digital-bond-archives/
-<br/>
+
 
 
 
