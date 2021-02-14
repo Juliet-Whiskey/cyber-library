@@ -6,7 +6,7 @@ A collection of resources to keep up to date on developments from across the cyb
 - [**Podcasts**](#podcast)
 - [**Blogs**](#blog)
 - [**_Future Additions_**](#future)
-<br/>
+
 ****
 
 <a name="mailing"></a>
