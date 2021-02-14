@@ -15,7 +15,9 @@ A collection of resources to keep up to date on developments from across the cyb
 
 #### General Security
 * **TLDR** Weekly newsletter covering technology, security, and current affairs. https://www.tldrnewsletter.com/
+
 * **Daniel Miessler Newsletter** Free monthly security and newsletter. Premium subscription newsletter released weekly. https://danielmiessler.com/
+
 * **SANS Newsletter Collection** SANS collection of different cyber security newsletters, including Industrial Control System Security resources. _https://www.sans.org/newsletters/_
 
 
