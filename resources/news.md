@@ -5,7 +5,7 @@ A collection of resources to keep up to date on developments from across the cyb
 - [**Events & Conferences**](#events)
 - [**Podcasts**](#podcast)
 - [**Blogs**](#blog)
-- [**Future Additions**](#future)
+- [**_Future Additions_**](#future)
 <br/>
 
 <a name="mailing"></a>
