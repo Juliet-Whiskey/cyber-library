@@ -18,7 +18,8 @@
 <br/>
 
 - [**Governance & Compliance**](https://github.com/Juliet-Whiskey/cyber-library/blob/main/resources/governance.md#governance--compliance)
-  - _ISO 27001_
+  - [Frameworks & Standards](https://github.com/Juliet-Whiskey/cyber-library/blob/main/resources/governance.md#standards--frameworks)
+   - _ISO 27001_
 
 
 
