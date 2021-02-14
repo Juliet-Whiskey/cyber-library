@@ -7,4 +7,5 @@ A collection of the different security standards, frameworks, and regulations th
 <a name="standards"></a>
 ## Standards & Frameworks
 ### _ISO 27001_
-- [ISO/IEC 27001 Information security management](https://www.iso.org/isoiec-27001-information-security.html)
+- Resources
+  - [ISO/IEC 27001 Information security management](https://www.iso.org/isoiec-27001-information-security.html)
