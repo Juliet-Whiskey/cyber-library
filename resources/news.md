@@ -48,8 +48,9 @@ A collection of resources to keep up to date on developments from across the cyb
 * **Shadow Talks by Digitial Shadows**
 
 ### ICS & OT
-* **Industrial Security Podcast** Hosted by Nate Nelson and Andrew Ginter, The Industrial Security Podcast takes a deep-dive into the most pressing emerging issues in SCADA technologies today. https://waterfall-security.com/scada-security/podcasts-on-ics-cybersecurity/
-* **Unsolicited Response Podcas‪t‬** Dale Peterson interviews the innovators in ICS / SCADA cyber security as well as the top talent in related fields. https://dale-peterson.com/podcast-2/
+* [**Industrial Security Podcast**](https://waterfall-security.com/scada-security/podcasts-on-ics-cybersecurity/) Hosted by Nate Nelson and Andrew Ginter, The Industrial Security Podcast takes a deep-dive into the most pressing emerging issues in SCADA technologies today. 
+
+* [**Unsolicited Response Podcas‪t‬**](https://dale-peterson.com/podcast-2/) Dale Peterson interviews the innovators in ICS / SCADA cyber security as well as the top talent in related fields. 
 <br/>
 <br/>
 
