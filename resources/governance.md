@@ -13,5 +13,5 @@ A collection of the different security standards, frameworks, and regulations th
   - Accreditation to the Standard is recognised globally, and a solid indication that an organisations security ISMS is aligned with information security best practice.
   - The latest version of the ISO 27001 standard was published in September 2013, replacing the 2005 iteration.
 
-- Resources
+- **Resources**
   - [ISO/IEC 27001 Information security management](https://www.iso.org/isoiec-27001-information-security.html)
