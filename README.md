@@ -7,7 +7,9 @@
 ****
 
 
-## INDEX
+## Table of Contents
+<br/>
+
 - [**News & Current Affairs**](https://github.com/Juliet-Whiskey/cyber-library/blob/main/resources/news.md)
   - [_Mailing Lists_](https://github.com/Juliet-Whiskey/cyber-library/blob/main/resources/news.md#mailing-lists)
   - [_Events & Conferences_](https://github.com/Juliet-Whiskey/cyber-library/blob/main/resources/news.md#events--conferences)
