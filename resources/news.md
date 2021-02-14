@@ -14,7 +14,7 @@ A collection of resources to keep up to date on developments from across the cyb
 ## MAILING LISTS
 
 ### General
--test
+* test
 
 
 
