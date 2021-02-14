@@ -1,15 +1,10 @@
 <h1 align="center">Cyber Library</h1>
 <p align="center">"<i>When you know the way brodly, you will see it in everthing<i>"</p>
 
+<h4 align="center">A collection of resources focussed on security and technology</h4>
 
-A collection of resources focussed on security and technology.
-<br/>
+****
 
-
-
-<h1 align="center">A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.</h4>
-
-<br/>
 
 ## INDEX
 - [**News & Current Affairs**](https://github.com/Juliet-Whiskey/cyber-library/blob/main/resources/news.md)
