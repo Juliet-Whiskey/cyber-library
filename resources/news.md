@@ -3,8 +3,7 @@ A collection of resources to keep up to date on developments from across the cyb
 
 - [Mailing Lists](#mailing)
 - [Events & Conferences](#events)
-- [Blogs - Personalities](#blog-p)
-- [Blogs - General](#blog-g)
+- [Blogs ](#blog)
 <br/>
 <br/>
 
@@ -32,7 +31,7 @@ A collection of resources to keep up to date on developments from across the cyb
 <br/>
 <br/>
 
-<a name="blog-p"></a>
+<a name="blog"></a>
 ## BLOGS 
 ### General
 * **The Hacker News** The Hacker News features latest cyber security news and in-depth coverage of current as well as future trends in Infosec and how they are shaping the cyber world. https://thehackernews.com/
