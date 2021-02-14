@@ -2,7 +2,6 @@
 A collection of resources to keep up to date on developments from across the cyber security and technical world.
 <br/>
 
-### INDEX
 - [Mailing Lists](#mailing)
 - [Events & Conferences](#events)
 - [Blogs - Personalities](#blog-p)
@@ -30,29 +29,41 @@ A collection of resources to keep up to date on developments from across the cyb
 <br/>
 <br/>
 
+
 <a name="events"></a>
 ## EVENTS & CONFERENCES
 * **Cybersecurity Conferences** A Curated Listing Of All Virtual Cybersecurity Conferences And Virtual Hacking Events (Worldwide). https://infosec-conferences.com/
 <br/>
 <br/>
 
+
+
 <a name="blog-p"></a>
-## BLOGS - PERSONALITIES
-Website      | Description | Quick Reference
------------- | ------------- | ------------- |
-[Schneier On Security](https://www.schneier.com/) | Bruce Schneier's personal blog.
-[Rob M. Lee](https://www.robertmlee.org/blog/) | Rob Lee's personal blog. ICS and OT security expert. 
-[Krebs on Security](https://krebsonsecurity.com/) | Brain Kreb's personal blog. An investigative journalist, specialising in cyber and technology.
-[Graham Cluely](https://grahamcluley.com/) | Graham Cluley, security public speaker and independent cybersecurity analyst, personal blog. 
+## BLOGS 
+### General
+* **The Hacker News** The Hacker News features latest cyber security news and in-depth coverage of current as well as future trends in Infosec and how they are shaping the cyber world. https://thehackernews.com/
+
+### ICS & OT
+* **Dragos Inc. Blog** Cybersecurity guidance to better understand — and protect — your critical infrastructure - Focussing specifically on ICS & OT. https://dragos.com/blog/
+* **SCADASEC** A blog focussing on security discussions, trends, and overall discussions pertaining to critical infrastructure protection (CIP) and SCADA/control systems security. https://scadamag.infracritical.com/
+
+
+
+
+### Technical
+* **System Overlord** A blog about security engineering, research, and general hacking. https://systemoverlord.com/
+* **Pen Test Partners** Updates, news, and trends in penetration testing and the internet security industry.https://www.pentestpartners.com/security-blog/
+
+
+### Security Personalities
+* **Schneier On Security** Bruce Schneier's personal blog. https://www.schneier.com/
+* **Rob M. Lee** Notable ICS and OT security expert Rob Lee's personal blog. https://www.robertmlee.org/blog/
+* **Krebs on Security** An investigative journalist, Brian Krebs, specialising in cyber and technology. https://krebsonsecurity.com/
+* **Graham Cluely** Security public speaker and independent cybersecurity analyst, Graham Clueley's personal blog. https://grahamcluley.com/
+
+
 <br/>
 <br/>
 
-<a name="blog-g"></a>
-## BLOGS - GENERAL
-Website      | Description | Quick Reference
------------- | ------------- | ------------- |
-[Dragos Inc. Blog](https://dragos.com/blog/) | Cybersecurity guidance to better understand — and protect — your critical infrastructure - Focussing on ICS & OT.| ICS & OT
-[The Hacker News](https://thehackernews.com/) | The Hacker News features latest cyber security news and in-depth coverage of current as well as future trends in Infosec and how they are shaping the cyber world. | General
-[System Overlord](https://systemoverlord.com/)| A blog about security engineering, research, and general hacking.| Technical
-[SCADASEC](https://scadamag.infracritical.com/)| A blog focussing on security discussions, trends, and overall discussions pertaining to critical infrastructure protection (CIP) and SCADA/control systems security. | ICS & OT
-[Pen Test Partners](https://www.pentestpartners.com/security-blog/) | The Pen Test Partners Security Blog brings you the latest news and trends in penetration testing and the internet security industry.| Technical
+
+
