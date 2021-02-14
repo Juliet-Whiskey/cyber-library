@@ -86,21 +86,27 @@ A collection of resources to keep up to date on developments from across the cyb
 <a name="blog"></a>
 ## BLOGS 
 ### General
-* **The Hacker News** The Hacker News features latest cyber security news and in-depth coverage of current as well as future trends in Infosec and how they are shaping the cyber world. https://thehackernews.com/
+* [**The Hacker News**](https://thehackernews.com/) The Hacker News features latest cyber security news and in-depth coverage of current as well as future trends in Infosec and how they are shaping the cyber world. 
 
 ### ICS & OT
-* **Dragos Inc. Blog** Cybersecurity guidance to better understand — and protect — your critical infrastructure - Focussing specifically on ICS & OT. https://dragos.com/blog/
-* **SCADASEC** A blog focussing on security discussions, trends, and overall discussions pertaining to critical infrastructure protection (CIP) and SCADA/control systems security. https://scadamag.infracritical.com/
+* [**Dragos Inc. Blog**](https://dragos.com/blog/) Cybersecurity guidance to better understand — and protect — your critical infrastructure - Focussing specifically on ICS & OT.
+
+* [**SCADASEC**](https://scadamag.infracritical.com/) A blog focussing on security discussions, trends, and overall discussions pertaining to critical infrastructure protection (CIP) and SCADA/control systems security. 
+
+
 
 ### Technical
-* **System Overlord** A blog about security engineering, research, and general hacking. https://systemoverlord.com/
-* **Pen Test Partners** Updates, news, and trends in penetration testing and the internet security industry.https://www.pentestpartners.com/security-blog/
+* [**System Overlord**](https://systemoverlord.com/) A blog about security engineering, research, and general hacking. 
+* [**Pen Test Partners**](https://www.pentestpartners.com/security-blog/) Updates, news, and trends in penetration testing and the internet security industry.
+
+
+
 
 ### Security Personalities
-* **Schneier On Security** Bruce Schneier's personal blog. https://www.schneier.com/
-* **Rob M. Lee** Notable ICS and OT security expert Rob Lee's personal blog. https://www.robertmlee.org/blog/
-* **Krebs on Security** An investigative journalist, Brian Krebs, specialising in cyber and technology. https://krebsonsecurity.com/
-* **Graham Cluely** Security public speaker and independent cybersecurity analyst, Graham Clueley's personal blog. https://grahamcluley.com/
+* [**Schneier On Security**](https://www.schneier.com/) Bruce Schneier's personal blog. 
+* [**Rob M. Lee**](https://www.robertmlee.org/blog/) Notable ICS and OT security expert Rob Lee's personal blog. 
+* [**Krebs on Security**](https://krebsonsecurity.com/) An investigative journalist, Brian Krebs, specialising in cyber and technology. 
+* [**Graham Cluely**](https://grahamcluley.com/) Security public speaker and independent cybersecurity analyst, Graham Clueley's personal blog. 
 
 
 
