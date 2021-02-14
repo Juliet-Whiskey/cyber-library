@@ -52,7 +52,6 @@ A collection of resources to keep up to date on developments from across the cyb
 
 * [**Unsolicited Response Podcas‪t‬**](https://dale-peterson.com/podcast-2/) Dale Peterson interviews the innovators in ICS / SCADA cyber security as well as the top talent in related fields. 
 <br/>
-<br/>
 
 <a name="blog"></a>
 ## BLOGS 
