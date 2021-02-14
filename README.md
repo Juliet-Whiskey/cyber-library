@@ -2,7 +2,7 @@
 A collection of resources focussed on security and technology.
 <br/>
 
-<p align="center">"<i>Knowledge is powerful, be careful how you use it!</i>"</p>
+<p align="center">"_When you know the way brodly, you will see it in everthing_"</p>
 
 <h1 align="center">A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.</h4>
 
