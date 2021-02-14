@@ -28,19 +28,12 @@ A collection of resources to keep up to date on developments from across the cyb
 * **Dale Peterson** Weekly ICS focussed security news and updates. Released every Friday. https://dale-peterson.com/digital-bond-archives/
 
 
-
-
-
-
-
-
-
- | ***Update***
-<br/>
-<br/>
-
 <a name="events"></a>
 ## EVENTS & CONFERENCES
+
+
+
+
 Website      | Description | Quick Reference
 ------------ | ------------- | ------------- |
 [Cybersecurity Conferences](https://infosec-conferences.com/) | A Curated Listing Of All Virtual Cybersecurity Conferences And Virtual Hacking Events (Worldwide). | General
