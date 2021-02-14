@@ -68,8 +68,9 @@ A collection of resources to keep up to date on developments from across the cyb
 * [**Rob M. Lee**](https://www.robertmlee.org/blog/) Notable ICS and OT security expert Rob Lee's personal blog. 
 * [**Krebs on Security**](https://krebsonsecurity.com/) An investigative journalist, Brian Krebs, specialising in cyber and technology. 
 * [**Graham Cluely**](https://grahamcluley.com/) Security public speaker and independent cybersecurity analyst, Graham Clueley's personal blog. 
-
+<br/>
 
 <a name="future"></a>
 ## Future Additions 
-
+Ideas for future items and elements to add to this repository
+* _News Sites_
