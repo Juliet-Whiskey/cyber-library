@@ -12,6 +12,12 @@ A collection of resources to keep up to date on developments from across the cyb
 
 <a name="mailing"></a>
 ## MAILING LISTS
+
+### General
+-test
+
+
+
 Mailing List | Description | Quick Reference
 ------------ | ------------- | ------------- |
 [Dale Peterson](https://dale-peterson.com/digital-bond-archives/) | Weekly ICS focussed security news and updates. Released every Friday. | ICS & OT
