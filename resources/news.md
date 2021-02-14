@@ -9,7 +9,7 @@ A collection of resources to keep up to date on developments from across the cyb
 
 <a name="mailing"></a>
 ## MAILING LISTS
-### General Security
+### _General Security_
 * [**TLDR**](https://www.tldrnewsletter.com/) Weekly newsletter covering technology, security, and current affairs. 
 * [**Daniel Miessler Newsletter**](https://danielmiessler.com/) Free monthly security and newsletter. Premium subscription newsletter released weekly. 
 * [**SANS Newsletter Collection**](https://www.sans.org/newsletters/) SANS collection of different cyber security newsletters, including Industrial Control System Security resources. 
@@ -17,10 +17,10 @@ A collection of resources to keep up to date on developments from across the cyb
 * [**GCHQ**](https://grahamcluley.com/gchq-newsletter/) Graham Clueley's security newsletter. 
 * [**Risky Biz**](https://srslyriskybiz.substack.com/subscribe) A weekly newsletter on the stories and news shaping cyber policy.
 
-### Technical Security
+### _Technical Security_
 * [**TLDR Security**](https://tldrsec.com/newsletter/) Weekly security specific newsletter, focussing on the technical side of security. 
 
-### ICS & OT Security
+### _ICS & OT Security_
 * [**Dale Peterson**](https://dale-peterson.com/digital-bond-archives/) Weekly ICS focussed security news and updates. Released every Friday. 
 <br/>
 
