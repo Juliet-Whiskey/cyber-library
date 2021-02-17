@@ -15,3 +15,7 @@ A collection of the different security standards, frameworks, and regulations th
 
 - **Resources**
   - [ISO/IEC 27001 Information security management](https://www.iso.org/isoiec-27001-information-security.html)
+
+
+- **Training**
+  - [Advisera - Free ISO Training](https://training.advisera.com/iso-27001-training/)
