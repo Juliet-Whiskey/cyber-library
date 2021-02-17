@@ -19,3 +19,4 @@ A collection of the different security standards, frameworks, and regulations th
 
 - **Training**
   - [Advisera - Free ISO Training](https://training.advisera.com/iso-27001-training/)
+  - [Alison - ISO/IEC 27001 - Dynamics of Information Security Management System (ISMS) ](https://alison.com/course/iso-iec-27001-dynamics-of-information-security-management-system-isms)
