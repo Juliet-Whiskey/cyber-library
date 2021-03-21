@@ -4,6 +4,16 @@ A collection of the different security standards, frameworks, and regulations th
 - [**Standards & Frameworks**](#standards)
 
 ****
+
+
+<a name="standards"></a>
+## Compliance & Regulation
+### _General Data Protection Regulation (GDPR)_
+
+
+
+
+
 <a name="standards"></a>
 ## Standards & Frameworks
 ### _ISO 27001_
