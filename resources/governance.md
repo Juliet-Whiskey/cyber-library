@@ -6,7 +6,7 @@ A collection of the different security standards, frameworks, and regulations th
 ****
 
 
-<a name="standards"></a>
+<a name="compliance"></a>
 ## Compliance & Regulation
 ### _General Data Protection Regulation (GDPR)_
 
