@@ -19,12 +19,22 @@ A collection of resources to keep up to date on developments from across the cyb
 * [**GCHQ**](https://grahamcluley.com/gchq-newsletter/) Graham Clueley's security newsletter. 
 * [**Risky Biz**](https://srslyriskybiz.substack.com/subscribe) A weekly newsletter on the stories and news shaping cyber policy.
 
+
+https://www.bleepingcomputer.com/
+
+Recorded Futures
+
+
 ### _Technical Security_
 * [**TLDR Security**](https://tldrsec.com/newsletter/) Weekly security specific newsletter, focussing on the technical side of security. 
 
 ### _ICS & OT Security_
 * [**Dale Peterson**](https://dale-peterson.com/digital-bond-archives/) Weekly ICS focussed security news and updates. Released every Friday. 
 <br/>
+
+DRAGOS News letter
+
+
 
 <a name="events"></a>
 ## EVENTS & CONFERENCES
